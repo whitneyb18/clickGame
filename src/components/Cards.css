@@ -1,0 +1,24 @@
+.memCard {
+  width: 180px;
+  height: 180px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.pokeButton {
+  margin: 10px;
+}
+
+.col-sm-3 {
+  margin: 0px;
+  padding: 0px;
+}
+
+.row {
+  width: 100%;
+}
+
+.container {
+  width: 70%;
+  margin-top: 100px;
+}

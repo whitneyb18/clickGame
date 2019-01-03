@@ -5,7 +5,7 @@ import "./Cards.css";
 class Cards extends Component {
   render() {
     return (
-      <div>
+      <div className="cardContainer">
         <div className="col-sm-3">
           <button className="btn pokeButton">
             <img

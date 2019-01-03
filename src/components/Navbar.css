@@ -4,7 +4,7 @@ p {
 }
 
 nav {
-  background-color: blue;
+  background-color: #2d59a8;
 }
 
 .navbar {
@@ -12,4 +12,9 @@ nav {
   top: 0px;
   width: 100%;
   z-index: 1;
+  font-family: "Concert One", cursive;
+}
+
+.message {
+  font-size: 24px;
 }

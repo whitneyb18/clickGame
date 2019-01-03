@@ -11,7 +11,7 @@ class Navbar extends Component {
             <p>Clicky Game</p>
           </div>
           <div className="col-lg-4">
-            <p>{this.props.data.message}</p>
+            <p className="message">{this.props.data.message}</p>
           </div>
           <div className="col-lg-4">
             <p>Score: {this.props.data.score}</p>
